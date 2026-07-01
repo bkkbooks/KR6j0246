@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0246/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說聖六字大明王陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1047.xml
+    old_id: T20n1047
+hash: sha256:02904e4ffa25eb28aa289abc1a5447af2d853902fb97c1e11ea5ab743adcbf26
