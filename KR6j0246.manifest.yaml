@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0246_000.yaml, hash: 'sha256:02904e4ffa25eb28aa289abc1a5447af2d853902fb97c1e11ea5ab743adcbf26'}
-  - {seq: 1, filename: KR6j0246_001.yaml, hash: 'sha256:81584929a5e322e588eefea8ce5427d00726dbac19732dd25c4532b39f04d16c'}
+  - {seq: 1, filename: KR6j0246_001.yaml, hash: 'sha256:b8acdf9e7fc4ab7567c85af5ad5732071405b9b0b2db38d28cdf49a86bac5511'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0246_001.markers.yaml, hash: 'sha256:974f910122f52dcd655dfd61bb322cfa9805a2eab1f9276e0a4293102878a4f6'}
+  - {seq: 0, role: markers, filename: assets/KR6j0246_000.markers.yaml, hash: 'sha256:8a1d37f1ed24a7587589a8822ed612638db870f27858398e8425d96de22ef893'}
+  - {seq: 1, role: markers, filename: assets/KR6j0246_001.markers.yaml, hash: 'sha256:1a8b6751cbb5169496721d591ca98ca5e02bf84b2e3f862c5a1354f9131e3504'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說聖六字大明王陀羅尼經
   type: juan
   level: 1
-hash: sha256:9ada6d3dbf9d50a1c4f8a5241644053d6fd55116985a6061f9458f750c470cba
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8e2c4131592e56a63b4aa948f04605f1a283ff0d78e29a4a6855d1e47c5f7095
